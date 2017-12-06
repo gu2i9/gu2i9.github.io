@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Title</title>
+    <link>https://gu2i9.github.io/</link>
+    <description>Recent content on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Dec 2017 00:07:13 +0900</lastBuildDate>
+    
+	<atom:link href="https://gu2i9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idea 20171206</title>
+      <link>https://gu2i9.github.io/post/idea-20171206/</link>
+      <pubDate>Thu, 07 Dec 2017 00:07:13 +0900</pubDate>
+      
+      <guid>https://gu2i9.github.io/post/idea-20171206/</guid>
+      <description>소프트웨어 reuse율이 높으면 좋은 품질의 코드가 된다. 그런데 이 경우 우리는 포팅에 가까운 형태기 때문에 맞는지는 의문이다. 소프트웨어 품질 지표의 원죄</description>
+    </item>
+    
+    <item>
+      <title>경영진의 의견</title>
+      <link>https://gu2i9.github.io/post/opinions/</link>
+      <pubDate>Wed, 06 Dec 2017 23:43:11 +0900</pubDate>
+      
+      <guid>https://gu2i9.github.io/post/opinions/</guid>
+      <description>현재 지표로 할 수 있는 것에 대해서 웨이랜드사의 경영진이 구체적인 목표를 제공하고 있지 않아 다른 회사의 경영진 의견을 들어보았다. 키디콥스사에서 어떤 지표들에 관</description>
+    </item>
+    
+    <item>
+      <title>비주얼 스튜디오 2015의 품질지표</title>
+      <link>https://gu2i9.github.io/post/vs2015_metrics/</link>
+      <pubDate>Wed, 06 Dec 2017 23:33:47 +0900</pubDate>
+      
+      <guid>https://gu2i9.github.io/post/vs2015_metrics/</guid>
+      <description>비주얼 스튜디오 2015에 포함되어 있는 빌드 품질 지표 보고서에서 테스트 검사, 코드 변동, 버그 수에 대해서 보고서 형태로 나오고 있다. 전체 뷰에 대한 예시로 좋은</description>
+    </item>
+    
+  </channel>
+</rss>
